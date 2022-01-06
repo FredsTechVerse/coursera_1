@@ -1,0 +1,116 @@
+.jumbotron {
+    padding: 70px 30px;
+    margin: 0px auto;
+    background-color: #9575CD;
+    border-radius: .3rem;
+    color: floralwhite;
+  }
+
+body {
+  padding-top: 55px;
+}
+
+.navbar-dark {
+  background-color: #512DA8;
+}
+
+.row-header {
+  margin: 0px auto;
+  padding: 0px;
+}
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+  align-items: center;
+}
+
+footer.footer {
+  background-color: #D1C4E9;
+  margin: 0px auto;
+  padding: 20px 0px;
+}
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+/*about us*/
+#about-us {
+  margin-left: -13px;
+}
+
+.history-content {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+.leader-content {
+  padding: 50px 0;
+}
+
+/* for bootstrap-icon */
+.bi-envelope, .bi-printer, .bi-telephone-fill {
+  font-size: 1rem;
+}
+
+/*css customizations */
+.blockquote-footer {
+  margin-top: -0.5rem;
+}
+
+/*for nav tabs of coporate leaders on aboutus page */
+.tab-content {
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 10px;
+}
+#facts {
+  margin: 0 auto;
+}
+
+/*accordion*/
+small {
+  font-size: 1.25rem;
+}
+
+/*carousel */
+.carousel {
+  background:#512DA8;
+  padding: 0;
+}
+
+.carousel-item {
+height: 300px;
+}
+
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+
+.carousel-caption {
+  margin-left: 110px;
+}
+
+#carouselButton {
+  right:0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
+
+.modal-header{
+  background-color: #512DA8;
+  color: floralwhite;
+}
+
+.modal-body{
+  background-color:  #D1C4E9;
+}
